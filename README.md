@@ -1,27 +1,74 @@
-# Hollow House Institute
-## Structured Human Intelligence
+# Hollow House Institute — Website Source
+**Hollow House Institute**  
+**Structured Human Intelligence**
 
-**Time turns behavior into infrastructure.**  
-**Behavior is the most honest data there is.**
+*Time turns behavior into infrastructure.*  
+*Behavior is the most honest data there is.*
+
+This repository contains the **source for the Hollow House Institute public website**.
+
+The site is a static content project built with Jekyll and deployed via GitHub Pages / Vercel for public presentation of governance frameworks, publications, and institutional identity.
+
+---> **Presentation Layer Notice**
+> This repository supports public-facing explanation and documentation only.
+> It is not a source of governance authority, licensing, or access rights.
+>
+> Canonical authority is maintained on GitHub by the Hollow House Institute.
+
+## Project Description
+
+**Purpose:**  
+Provide a clear, accessible public interface for Hollow House Institute’s mission:
+- longitudinal AI governance
+- relational behavior analysis
+- licensed datasets & frameworks
+- independent audit publications
+
+**Audience:**  
+- site visitors
+- academic and industry partners
+- auditors and regulators
+- internal maintainers
 
 ---
 
-## Canonical Notice (Temporary)
+## Canonical Authority
 
-While the Hollow House Institute public website is offline, this repository serves as the **temporary canonical public authority** for Institute identity, scope, and governance references.
+While the Hollow House Institute main website is under restoration, the **canonical repository authority** for governance, licensing, datasets, and audit artifacts is:
 
-Authoritative licensing and governance instruments are maintained at:
+**https://github.com/hollowhouseinstitute/Master_License_Suite**
 
-https://github.com/hollowhouseinstitute/Master_License_Suite
+This repo hosts the **site source only**, not the governance authority.
+
+---
+## Governance Definitions
+
+Key terms used in this repository (e.g., *behavioral drift*, *decision substitution*, *escalation decay*)
+are defined in the **HHI Governance Glossary**.
+
+Canonical definitions:
+https://github.com/hollowhouseinstitute/Hollow_House_Standards_Library/blob/main/glossary.md
+## Technical Overview
+
+**Static Site Framework:**  
+- Jekyll static site generator  
+- Content authored in Markdown and HTML  
+- Uses GitHub Pages / Vercel for deployment
+
+**Build Requirements:**  
+- Ruby (see `.ruby-version`)
+- Jekyll (see `Gemfile`)
+- Bundler
 
 ---
 
-## Institute Mandate
+## Development & Deployment
 
-Hollow House Institute is an independent governance and audit body focused on **longitudinal behavioral risk in AI systems**.
+### Local Development
 
-We examine how repeated AI use reshapes:
-- human judgment
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/hollowhouseinstitute/Hollow_House_Institute-site.git- human judgment
 - escalation behavior
 - accountability assignment
 - organizational decision-making
@@ -88,3 +135,9 @@ Governance, audit, and licensing inquiries:
 ---
 
 © Hollow House Institute. All rights reserved.
+
+## Governance
+
+This repository inherits governance authority from the **HHI Governance Export — Core**.
+
+All execution, datasets, research, and audits are bound to its standards and constraints.
