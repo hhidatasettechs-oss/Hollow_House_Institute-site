@@ -1,6 +1,6 @@
 # Hollow House Institute Website
 
-**Repository:** [Hollow_House_Institute-site](https://github.com/hhidatasettechs-oss/Hollow_House_Institute-site)  
+**Repository:** [Hollow_House_Institute-site](https://github.com/hhidatasettechs-oss/Hollow_House_Institute_site  
 **Maintained by:** Hollow House Institute (HHI)  
 
 ---
