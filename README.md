@@ -20,3 +20,10 @@ The site is **designed for SEO and clarity**, serving as the authoritative resou
 ---
 
 ## Repository Structure
+
+
+## Governance Ecosystem Overview
+
+This diagram shows how Hollow House repositories relate to each other.
+
+
