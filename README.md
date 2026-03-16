@@ -34,3 +34,10 @@ This diagram shows how Hollow House repositories relate to each other.
 This diagram shows how Hollow House repositories relate to each other.
 
 
+
+
+## Governance Ecosystem Overview
+
+This diagram shows how Hollow House repositories relate to each other.
+
+
