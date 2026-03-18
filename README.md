@@ -40,4 +40,37 @@ This diagram shows how Hollow House repositories relate to each other.
 
 This diagram shows how Hollow House repositories relate to each other.
 
+Hollow House Institute uses defined, non-public metrics, including:
 
+- **Loyalty Load Index (LLI)**  
+- **Repair Integrity Score (RIS)**  
+- **Identity Harm Severity (IHS)**  
+- **Exit Cost Ratio (ECR)**  
+
+Metric definitions and usage are governed under the Master License Suite.
+
+---
+
+## Licensing & Use
+
+All materials, frameworks, metrics, and documentation are governed by the  
+**Hollow House Institute Master License Suite (HHI-MLS)**.
+
+No use is permitted by default.
+
+Authoritative licensing terms:
+https://github.com/hollowhouseinstitute/Master_License_Suite
+
+---
+
+## Contact
+
+Governance, audit, and licensing inquiries:
+
+**data@hollowhouse.org**
+
+---
+
+© Hollow House Institute. All rights reserved.
+ARCHIVE: duplicate naming. Use Hollow_House_Institute_site.
+>>>>>>> cf7cb8f (Mark repo as duplicate (naming normalization))
