@@ -74,3 +74,8 @@ Governance, audit, and licensing inquiries:
 © Hollow House Institute. All rights reserved.
 ARCHIVE: duplicate naming. Use Hollow_House_Institute_site.
 >>>>>>> cf7cb8f (Mark repo as duplicate (naming normalization))
+
+## Enforcement Statement
+
+Authority is enforced through explicit Decision Boundaries, escalation thresholds, and Stop Authority conditions.
+
